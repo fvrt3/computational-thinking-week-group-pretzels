@@ -1,5 +1,5 @@
 import sys
-sys.path.append('C:\Users\Alex\Documents\GitHub\computational-thinking-week-group-pretzels\challenge_day3')
+sys.path.append('C:\\Users\\Alex\\Documents\\GitHub\\computational-thinking-week-group-pretzels\challenge_day3')
 
 import alex
 import diogo
